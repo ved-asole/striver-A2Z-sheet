@@ -12,3 +12,4 @@ Ved Asole
 ## Table of Contents
 - #### [Lecture 4 - Know Basic Maths](src/lecture4)
   - [Count Digits](src/lecture4/countDigits)
+  - [Reverse a Number](src/lecture4/reverseANumber)
