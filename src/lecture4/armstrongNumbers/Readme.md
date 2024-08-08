@@ -1,5 +1,4 @@
-# 	
-Armstrong Numbers
+# Armstrong Numbers
 Leetcode - https://leetcode.com/problems/armstrong-number
 
 
