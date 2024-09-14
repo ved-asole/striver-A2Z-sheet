@@ -9,7 +9,8 @@ All the problems are taken from the [Striver's A2Z DSA Sheet](https://takeuforwa
 **Created by :-**
 Ved Asole
 
-## Table of Contents
+### Table of Contents :
 - #### [Lecture 4 - Know Basic Maths](src/lecture4)
   - [Count Digits](src/lecture4/countDigits)
   - [Reverse a Number](src/lecture4/reverseANumber)
+  - [Check Palindrome](src/lecture4/checkPalindrome)
