@@ -14,3 +14,5 @@ Ved Asole
   - [Count Digits](src/lecture4_basicMaths/countDigits)
   - [Reverse a Number](src/lecture4_basicMaths/reverseANumber)
   - [Check Palindrome](src/lecture4_basicMaths/checkPalindrome)
+  - [GCD Or HCF](src/lecture4_basicMaths/lcmAndGcd)
+  - [Armstrong Numbers](src/lecture4_basicMaths/armstrongNumbers)
