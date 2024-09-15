@@ -1,4 +1,4 @@
-package lecture4.countDigits;
+package lecture4_basicMaths.countDigits;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -13,8 +13,7 @@ public class GFG
         while(t-- > 0)
         {
             int N = Integer.parseInt(read.readLine());
-            Solution ob = new Solution();
-            System.out.println(ob.evenlyDivides(N));
+            System.out.println(Solution.evenlyDivides(N));
         }
     }
 }

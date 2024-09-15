@@ -1,4 +1,4 @@
-package lecture4.lcmAndGcd;
+package lecture4_basicMaths.lcmAndGcd;
 
 import java.io.BufferedReader;
 import java.io.IOException;

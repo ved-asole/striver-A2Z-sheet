@@ -1,4 +1,4 @@
-package lecture4.reverseANumber;
+package lecture4_basicMaths.reverseANumber;
 
 import java.io.BufferedReader;
 import java.io.IOException;

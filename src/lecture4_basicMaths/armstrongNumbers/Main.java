@@ -1,4 +1,4 @@
-package lecture4.armstrongNumbers;
+package lecture4_basicMaths.armstrongNumbers;
 
 import java.io.BufferedReader;
 import java.io.IOException;

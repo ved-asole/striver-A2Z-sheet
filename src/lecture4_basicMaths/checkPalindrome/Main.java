@@ -1,4 +1,4 @@
-package lecture4.checkPalindrome;
+package lecture4_basicMaths.checkPalindrome;
 
 import java.io.BufferedReader;
 import java.io.IOException;
