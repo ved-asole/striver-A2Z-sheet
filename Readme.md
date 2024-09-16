@@ -16,3 +16,4 @@ Ved Asole
   - [Check Palindrome](src/lecture4_basicMaths/checkPalindrome)
   - [GCD Or HCF](src/lecture4_basicMaths/lcmAndGcd)
   - [Armstrong Numbers](src/lecture4_basicMaths/armstrongNumbers)
+  - [Print All Divisors](src/lecture4_basicMaths/printAllDivisors)
