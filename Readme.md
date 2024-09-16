@@ -17,3 +17,4 @@ Ved Asole
   - [GCD Or HCF](src/lecture4_basicMaths/lcmAndGcd)
   - [Armstrong Numbers](src/lecture4_basicMaths/armstrongNumbers)
   - [Print All Divisors](src/lecture4_basicMaths/printAllDivisors)
+  - [Check For Prime](src/lecture4_basicMaths/checkPrime)
