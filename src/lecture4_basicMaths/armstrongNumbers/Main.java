@@ -32,7 +32,7 @@ class Solution {
         int sum=0;
         for (int i = 0; i < length; i++) {
             int digit = n%10;
-            sum += Math.pow(digit, length);
+            sum += (int) Math.pow(digit, length);
             n = n/10;
         }
         return original == sum;
