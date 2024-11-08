@@ -1,5 +1,6 @@
 # Palindrome Number  
-Leetcode 9
+
+### Leetcode 9 - [Link](https://leetcode.com/problems/palindrome-number/)
 
 
 Given an integer `x`, return true if `x` is a
@@ -25,9 +26,9 @@ Example 3:
     Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
 
-Constraints:
+**Constraints:**
 
 -    `-231 <= x <= 231 - 1`
 
 
-Follow up: Could you solve it without converting the integer to a string?
+**Follow up:** Could you solve it without converting the integer to a string?

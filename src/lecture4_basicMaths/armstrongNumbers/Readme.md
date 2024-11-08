@@ -1,6 +1,6 @@
 # Armstrong Numbers
-Leetcode - https://leetcode.com/problems/armstrong-number
 
+### Leetcode 1134 - [Link](https://leetcode.com/problems/armstrong-number)
 
 Given an integer `N`, return true it is an Armstrong number otherwise return false.
 
@@ -22,6 +22,6 @@ Example 2:
 
 You don't need to read input or print anything. Your task is to complete the function isArmstrongNumber() which takes an integer N as input parameters and returns true it is an Armstrong number otherwise return false.
 
-Expected Time Complexity: O(log10N + 1)
+**Expected Time Complexity:** O(log10N + 1)
 
-Expected Space Complexity: O(1)
+**Expected Space Complexity:** O(1)
